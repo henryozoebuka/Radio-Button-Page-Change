@@ -1,0 +1,18 @@
+.page {
+    display: none;
+}
+
+#page1 {
+    background-color: red;
+    height: 50vh;
+}
+
+#page2 {
+    background-color: green;
+    height: 50vh;
+}
+
+#page3 {
+    background-color: blue;
+    height: 50vh;
+}
